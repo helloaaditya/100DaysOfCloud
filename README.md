@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Aditya's Cloud Journey
 
-[✍️ Introduce yourself]
+I am currently a student at Gandhi Institute of Technology and Management (GITAM) in Bengaluru, India. I am pursuing a Bachelor of Computer Applications (BCA) degree and I have always been interested in technology and programming, and the field of Cloud Computing has always fascinated me with its vast potential and opportunities.
 
-[✍️ Tell us why you started this challenge]
+Throughout my studies, I have had the opportunity to learn about the various technologies and platforms used in Cloud Computing, such as Amazon Web Services, Microsoft Azure, and Google Cloud.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+In addition to my studies, I am also involved in several extracurricular activities on campus. I am a member of the coding club, where we work on projects and gain new knowledge. I am the Student placement coordinator at GCGC.
+I am excited to see where my studies in Cloud Computing take me, and I am confident that it will set me up for a successful career in the tech industry. I am looking forward to exploring all the opportunities that Cloud Computing has to offer in the future.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/aditya-kumar-prajapati-774831222/)
 
 ## Stepping out the door
 
